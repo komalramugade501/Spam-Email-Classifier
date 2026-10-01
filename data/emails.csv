@@ -1,0 +1,21 @@
+text,label
+"Congratulations! You won a free prize. Claim now.",spam
+"Win cash today by clicking this link.",spam
+"Exclusive offer! You have been selected for a reward.",spam
+"Get a free vacation by responding immediately.",spam
+"Urgent! Claim your bonus before it expires.",spam
+"Limited time offer for a free gift.",spam
+"You have won a lottery. Send your details now.",spam
+"Free entry in our weekly prize draw.",spam
+"Your account has received a reward. Click now.",spam
+"Earn money quickly from home. Sign up today.",spam
+"Hi, can we meet tomorrow to discuss the project?",ham
+"Please find the meeting notes attached.",ham
+"Your appointment is confirmed for Monday.",ham
+"Can you send me the assignment file?",ham
+"Thanks for your help with the presentation.",ham
+"The team meeting starts at 10 AM.",ham
+"Please remember to submit the report today.",ham
+"Are you available for a quick call this afternoon?",ham
+"I will send the updated document shortly.",ham
+"Your order has been shipped and will arrive Friday.",ham
